@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Circle -->
+  <circle cx="32" cy="32" r="30" fill="#ffffff"/>
+
+  <!-- Grill bars -->
+  <rect x="20" y="24" width="4" height="18" fill="#E87722"/>
+  <rect x="28" y="18" width="4" height="24" fill="#E87722"/>
+  <rect x="36" y="22" width="4" height="20" fill="#E87722"/>
+
+  <!-- Minimal skyline -->
+  <path d="M18 42 L24 42 L28 38 L32 42 L38 34 L44 42"
+        stroke="#777777"
+        stroke-width="2"
+        fill="none"
+        stroke-linecap="round"/>
+</svg>
